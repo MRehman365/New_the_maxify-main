@@ -23,15 +23,15 @@ const Welcome = () => {
                 <p className="para mt-6">
                   Maxify is the right platform for all your development and
                   marketing needs. From Strategies to providing end-to-end
-                  solutions we have it all cove#525CEB. We provide our expertise
+                  solutions we have it all covered. We provide our expertise
                   in eCommerce, digital marketing, web and app development
                   services. We help our customers create websites and
                   applications that are feature-rich and fast-performing with
-                  human cente#525CEB designs and experiences. We approach unique
+                  human centered designs and experiences. We approach unique
                   and customized strategies that attract customers and helps
                   grow your business. Keeping customer as the foremost priority,
                   we empower your business with the best crafted solutions to
-                  get the desi#525CEB results and excel in the market. Our team
+                  get the desired results and excel in the market. Our team
                   of experienced professionals is dedicated to delivering
                   high-quality services that drive success. By leveraging the
                   latest technologies and industry trends, we ensure your
@@ -40,12 +40,12 @@ const Welcome = () => {
                   growth. Let us help you maximize your potential and reach new
                   heights.
                 </p>
-                <p className="para para-#525CEB mt-4"></p>
+                <p className="para para-red mt-4"></p>
                 {/* <ul className='grid grid-cols-12 mt-4'>
-                                    <li className='col-span-6 flex items-center mb-1'><span className='mr-1 para-#525CEB'><FaCircleCheck /></span> Nsectetur cing elit.</li>
-                                    <li className='col-span-6 flex items-center mb-1'><span className='mr-1 para-#525CEB'><FaCircleCheck /></span> Nsectetur cing elit.</li>
-                                    <li className='col-span-6 flex items-center mb-1'><span className='mr-1 para-#525CEB'><FaCircleCheck /></span> Nsectetur cing elit.</li>
-                                    <li className='col-span-6 flex items-center mb-1'><span className='mr-1 para-#525CEB'><FaCircleCheck /></span> Nsectetur cing elit.</li>
+                                    <li className='col-span-6 flex items-center mb-1'><span className='mr-1 para-red'><FaCircleCheck /></span> Nsectetur cing elit.</li>
+                                    <li className='col-span-6 flex items-center mb-1'><span className='mr-1 para-red'><FaCircleCheck /></span> Nsectetur cing elit.</li>
+                                    <li className='col-span-6 flex items-center mb-1'><span className='mr-1 para-red'><FaCircleCheck /></span> Nsectetur cing elit.</li>
+                                    <li className='col-span-6 flex items-center mb-1'><span className='mr-1 para-red'><FaCircleCheck /></span> Nsectetur cing elit.</li>
                                 </ul> */}
 
                 <button
