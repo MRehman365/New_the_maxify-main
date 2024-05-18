@@ -73,7 +73,7 @@ export const ServiceData = [
     title:
       "Web Design and Development Service To Take Your Business To New Heights",
     description:
-      "Web development services help create all types of websites that cater to your specific business needs, and in today's world, it is important to evolve daily and create a platform that stands out from the crowd. Maxify Industries is the right platform to choose. Our professional team takes a different approach and considers factors that are winning in each case. We are the leading website development company as we know the type of websites you need to grow your business faster and achieve your business goals. Our team assures to create your website with the right technology that looks perfect and caters to a good experience for the user, leading to high engagement and ranks. We also provide ongoing support and maintenance to ensure your website stays updated and performs optimally. By leveraging the latest trends and technologies, we help you stay ahead of the competition. Let Maxify Industries be your partner in digital success, delivering robust and scalable solutions tailo#525CEB to your needs.",
+      "Web development services help create all types of websites that cater to your specific business needs, and in today's world, it is important to evolve daily and create a platform that stands out from the crowd. Maxify Industries is the right platform to choose. Our professional team takes a different approach and considers factors that are winning in each case. We are the leading website development company as we know the type of websites you need to grow your business faster and achieve your business goals. Our team assures to create your website with the right technology that looks perfect and caters to a good experience for the user, leading to high engagement and ranks. We also provide ongoing support and maintenance to ensure your website stays updated and performs optimally. By leveraging the latest trends and technologies, we help you stay ahead of the competition. Let Maxify Industries be your partner in digital success, delivering robust and scalable solutions tailored to your needs.",
     description2:
       "Enterprise app development services to help you gain first-mover advantage",
     technologyTitle: "Specialization in multiple app development platform",
@@ -90,13 +90,13 @@ export const ServiceData = [
         technologyImg: JavaImg,
         technologyName: "Java",
         technologyAbout:
-          " As a leading Java development company, we provide tailo#525CEB solutions to suite your business needs. Maxify Industries specializes in B2C and B2B web and application development. We aim at building performance-oriented, secure and reliable web applications that enhance the value of business and user c#525CEBibility.",
+          " As a leading Java development company, we provide tailored solutions to suite your business needs. Maxify Industries specializes in B2C and B2B web and application development. We aim at building performance-oriented, secure and reliable web applications that enhance the value of business and user credibility.",
       },
       {
         technologyImg: PhpImg,
         technologyName: " PHP Development",
         technologyAbout:
-          "To enhance your digital presence, we have the best Php Development services offe#525CEB. We design and integrate effective custom content management systems that enhances the user experience to ensure the effective business-customer relationship.  ",
+          "To enhance your digital presence, we have the best Php Development services offered. We design and integrate effective custom content management systems that enhances the user experience to ensure the effective business-customer relationship.  ",
       },
       {
         technologyImg: MernImg,
@@ -146,7 +146,7 @@ export const ServiceData = [
         technologyImg: MarketImg,
         technologyName: " Content Marketing",
         technologyAbout:
-          " Build lasting relationships with the desi#525CEB audience and increase in brand’s visibility. We entrust your website to have the right content we use high-performing keywords which helps to rank your website easily and structure content so it can promote easily reading and convince people to visit your website frequently. ",
+          " Build lasting relationships with the desired audience and increase in brand’s visibility. We entrust your website to have the right content we use high-performing keywords which helps to rank your website easily and structure content so it can promote easily reading and convince people to visit your website frequently. ",
       },
     ],
   },

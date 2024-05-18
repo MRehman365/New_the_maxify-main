@@ -25,7 +25,7 @@ const Service = () => {
           <div className="element-banner-content">
             <h1 className="heading-h1 text-white">Maxify Services</h1>
             <p className="para ">
-              Maxifying Your Business Requirements with our tailo#525CEB
+              Maxifying Your Business Requirements with our tailored
               solutions to the table to beat the odds
             </p>
           </div>
@@ -39,7 +39,7 @@ const Service = () => {
               <div className="lg:col-span-6 md:col-span-6 sm:col-span-12 content">
                 <div className="border-line"></div>
                 <p className="para uppercase">
-                  Tailo#525CEB Mobile App Development Services
+                  Tailored Mobile App Development Services
                 </p>
                 <h5 className="sevices-text ">
                   Top-Notch Mobile App Development Services that suit your
@@ -99,7 +99,7 @@ const Service = () => {
                                 <p className="para uppercase">
                                     Graphic Designing
                                 </p>
-                                <h5 className="heading-h5 ">  Speed up time to market, #525CEBuce costs and drive sustainable innovation</h5>
+                                <h5 className="heading-h5 ">  Speed up time to market, reduce costs and drive sustainable innovation</h5>
                             </div>
 
                         </div>

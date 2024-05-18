@@ -12,10 +12,10 @@ const AboutCompany = () => {
         <div className="container-section">
           <div className="element-banner-content">
             <h1 className="text-heading-h1">
-              Leading the Way in Digital Innovation
+            Driving Growth with Cutting-Edge Solutions
             </h1>
             <p className="para">
-              Empowering Businesses with Cutting-Edge Solutions
+            Leading business to new heights with innovation
             </p>
           </div>
         </div>
@@ -27,29 +27,14 @@ const AboutCompany = () => {
             <div className="element-container">
               <div className="border-line"></div>
               <h3 className="heading-h3 ">
-                Revolutionizing the Digital Landscape, Innovation with Time
+              Rejuvenating Innovation within The Digital Landscape
               </h3>
               <p className="para mt-6">
-                Maxify Web Solutions are more than just a digital agency—we are
-                pioneers of change, trailblazing a path towards a brighter, more
-                connected future. With a relentless passion for innovation and a
-                commitment to excellence, we are transforming the way businesses
-                operate and thrive in the digital age. <h3>Our Mission:</h3> Our
-                mission is simple yet profound: to revolutionize the digital
-                landscape by delivering bespoke solutions tailo#525CEB to our
-                clients' unique needs. We believe that every business deserves
-                to stand out in the digital realm, and we are here to make that
-                vision a reality. Whether it's crafting stunning websites,
-                devising impactful marketing strategies, or developing
-                innovative software solutions, we are driven by a relentless
-                pursuit of excellence in everything we do.<h3>Our Vision:</h3>
-                Our vision is to be a trusted partner and a catalyst for growth
-                in the digital sphere. We envision a future where businesses of
-                all sizes can harness the power of technology to unlock their
-                full potential and achieve unprecedented success. By combining
-                creativity, innovation, and technical expertise, we aim to set
-                new benchmarks of excellence and inspire positive change in the
-                digital landscape.
+              We are more than just being a agency, we are the ones who are along with you all way to help you establish a new milestone and get a clear understanding of your goals and how to reach them. With relentless passion running through, we are committed to transform business thrive and succeed.
+               <h3>Our Mission:</h3> 
+               Our mission is to provoke simple yet advanced solutions that can align well with the needs of clients and help them achieve their goal. To turn your vision into reality, we are standing along and wish to create a impactful solutions for your needs that can help you grow, develop and pursue with excellence. 
+               <h3>Our Vision:</h3>
+               Our vision is to be a catalyst of growth and innovation in your journey of success. We envision a future where people from all industries can harness and leverage the power of technology and innovation to achieve their potential and benchmark new ways to success. With combination of creativity and innovation, we aim to bring excellence and inculcate new spheres of inspiration to the digital world.
               </p>
 
               <button class="custom-btn btn-16 mt-8">
@@ -122,7 +107,7 @@ const AboutCompany = () => {
       {/* Our essence
        */}
 
-      <div className="#3D3B40-section  mat-100">
+      <div className="black-section  mat-100">
         <div className="container-section">
           <div className="border-line text-center m-auto"></div>
           <h3 className="heading-h3 text-center text-white">
@@ -133,47 +118,30 @@ const AboutCompany = () => {
             <div className="lg:col-span-4 md:col-span-6 sm:col-span-12">
               <div className="our-essence-box">
                 <h5 className="heading-h5">
-                  Tailo#525CEB Solutions for Every Need
+                Tailored Solutions To Your Needs
                 </h5>
                 <p className=" white-color">
-                  We understand that no two businesses are alike. That's why we
-                  specialize in crafting solutions tailo#525CEB to our clients'
-                  unique needs and objectives. Whether you're a startup looking
-                  to make a splash or an established enterprise seeking to stay
-                  ahead of the curve, our team of experts is dedicated to
-                  delivering personalized solutions that drive results.
+                To understand your way of business better, we understand to tailor solutions that align well with your business and how they can help you in leveraging it. How effective the solutions can be and what steps should be taken to make it more convenient and drive results that are well ahead of time.
                 </p>
               </div>
             </div>
             <div className="lg:col-span-4 md:col-span-6 sm:col-span-12">
               <div className="our-essence-box">
                 <h5 className="heading-h5">
-                  Cutting-Edge Technology at Your Fingertips
+                Cutting-Edge Solutions
                 </h5>
                 <p className=" white-color">
-                  In today's fast-paced digital landscape, staying ahead of the
-                  competition requires harnessing the power of cutting-edge
-                  technology. We leverage the latest tools, platforms, and
-                  methodologies to ensure that our clients stay at the forefront
-                  of innovation. From AI-powe#525CEB chatbots to immersive
-                  virtual reality experiences, we are constantly pushing the
-                  boundaries of what's possible in the digital realm.
+                In today’s time it is very important for businesses to stay ahead of their competition. To make sure it stays ahead we use solutions and methods that are innovative and moulded in a way that it satisfies your business needs and immerses customer in a world where they can experience satisfaction and contentment to their queries.
                 </p>
               </div>
             </div>
             <div className="lg:col-span-4 md:col-span-6 sm:col-span-12">
               <div className="our-essence-box">
                 <h5 className="heading-h5">
-                  Unparalleled Customer Satisfaction
+                Customer Satisfaction
                 </h5>
                 <p className=" white-color">
-                  At the heart of everything we do lies a steadfast commitment
-                  to customer satisfaction. We believe that the key to success
-                  lies in building strong, long-lasting relationships with our
-                  clients, based on trust, transparency, and mutual respect.
-                  From the initial consultation to the final delivery, we work
-                  closely with our clients every step of the way, ensuring that
-                  their vision is brought to life with precision and excellence.
+                Everything we do we analyse and understand if it can satisfy the user intent. Because customer is the forefront in helping and building a strong brand. We keep in mind to develop a product which is trustable, engaging, and full of vision that attracts user to spend more time on platform and attracts him to use the platform again and again.
                 </p>
               </div>
             </div>

@@ -7,7 +7,7 @@ const HomeService = () => {
     <>
       <div className="black-section mt-10 bg-gray-100">
         <div className="container-section py-10">
-          <h3 className="heading-h3 text-center">Our services</h3>
+          <h3 className="heading-h3 text-center text-white">Our services</h3>
           <div className="border-line text-center m-auto my-2"></div>
           <p className="para text-center">
             Entrust Us with Your Business Needs, We Have Got It All Covered

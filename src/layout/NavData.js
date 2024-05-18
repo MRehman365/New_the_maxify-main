@@ -9,8 +9,8 @@ import Finance from "../assets/banking and financial image....png";
 import AppDevelopment from "../assets/app development service banner.jpg";
 import Graphic from "../assets/graphic.jpg";
 import DigitalMarketing from "../assets/web development service banner.png";
-import S1 from "../assets/s1.jpg";
-import S2 from "../assets/s2.jpg";
+import S1 from "../assets/university internal image 2.png";
+import S2 from "../assets/hospital banner.png";
 import S3 from "../assets/s3.jpg";
 import S4 from "../assets/s4.jpg";
 import abImg from "../assets/company.jpg";
@@ -105,12 +105,12 @@ export const NaveData = [
       {
         link: "/success-one/",
         img: S1,
-        names: "Success 1",
+        names: "University",
       },
       {
         link: "/success-two/",
         img: S2,
-        names: "Success Two",
+        names: "Hospital",
       },
       {
         link: "/success-three/",
