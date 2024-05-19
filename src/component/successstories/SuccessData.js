@@ -8,7 +8,9 @@ import { MdOutlineConstruction } from "react-icons/md";
 import appImg from "../../assets/1715169322133_h3x5ro_2_0.jpg";
 import webImg from "../../assets/1715151392526_a932l8_2_0.jpg";
 import digImg from "../../assets/1714548656867_h82h4v_2_0.jpg";
-import applicationImg from "../../assets/1715154300452_bjeoh5_2_0.jpg";
+import banner2 from "../../assets/university internal image 1.png";
+import banner3 from "../../assets/university internal image 2.png";
+import uniImg from "../../assets/university main banner.png";
 import websiteImg from "../../assets/1715254579545_lybjol_2_0.jpg";
 import digitalImg from "../../assets/1715250426115_owse7b_2_0.jpg";
 import logo1 from "../../assets/php_developer-removebg-preview (3).png";
@@ -18,15 +20,16 @@ import logo4 from "../../assets/mern-img.png";
 export const SuccessData = [
   {
     url: "/success-one",
-    name: "Success One",
+    name: "Sharda University",
     title2: "Result Driven App Development",
     text: "Propel to new heights for App Development with Maxify Industries",
-    img: appImg,
+    img: uniImg,
     logo1: logo1,
     logo2: logo2,
     logo3: logo3,
     logo4: logo4,
-    img2: applicationImg,
+    img2: banner2,
+    img3: banner3,
     name: "Application Development",
     icons: <MdOutlineConstruction />,
     title: "Empowering Excellence with The Right App Development Company",
@@ -89,7 +92,8 @@ export const SuccessData = [
     text: "Propel to new heights for App Development with Maxify Industries",
     img: appImg,
     logo1: logo1,
-    img2: applicationImg,
+    img2: banner2,
+    img3: banner3,
     name: "Application Development",
     icons: <MdOutlineConstruction />,
     title: "Empowering Excellence with The Right App Development Company",
@@ -152,7 +156,8 @@ export const SuccessData = [
     text: "Propel to new heights for App Development with Maxify Industries",
     img: appImg,
     logo1: logo1,
-    img2: applicationImg,
+    img2: banner2,
+    img3: banner3,
     name: "Application Development",
     icons: <MdOutlineConstruction />,
     title: "Empowering Excellence with The Right App Development Company",

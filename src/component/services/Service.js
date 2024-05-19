@@ -8,7 +8,7 @@ import OurSuccessStories from "../home/OurSuccessStories";
 import MetaData from "../../layout/MetaData";
 import ServiceImg from "../../assets/service-img.png";
 import WebImg from "../../assets/1714554235083_29zv92_2_0.jpg";
-import ApplicationImg from "../../assets/mobile_app.png";
+import ApplicationImg from "../../assets/mobile app.png";
 import DigitalImg from "../../assets/1714567529414_2n6b6f_2_0.jpg";
 const Service = () => {
   useEffect(() => {

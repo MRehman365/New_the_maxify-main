@@ -22,8 +22,8 @@ const Career = () => {
         <img className="banner" src={img2} alt="jpg" />
         <div className="container-section">
           <div className="element-banner-content">
-            <h1 className="heading-h1"> Join Our Team and Shape the Future</h1>
-            <p className="para">Embark on a Journey of Innovation and Growth</p>
+            <h1 className="heading-h1">Shaping New World Through Maxify Lens</h1>
+            <p className="para">Embark on a Journey of Growth and Innovation</p>
           </div>
         </div>
       </div>
@@ -35,40 +35,16 @@ const Career = () => {
             Maxify Web Solution - Your next career destination
           </h3>
           <p className="para">
-            At Maxify, we believe in creating an environment where passion meets
-            purpose, and talent thrives. As a leading player in the digital
-            arena, we are constantly seeking driven individuals who are eager to
-            make a difference and push the boundaries of innovation. Joining our
-            team means being part of a dynamic and collaborative culture where
-            creativity is celebrated, challenges are embraced, and opportunities
-            for growth abound. If you're ready to embark on a journey of
-            innovation and shape the future of technology, we invite you to
-            explore career opportunities at Maxify Web Solutions.
+          We believe in creating a workspace where everyone thrives and has the right to communicate and share their ideas. We are seeking innovative and young minds that can contribute to the leading success of out team and more value to the team. We are committed to make a place where everyone feels welcomed and consider it their own place to relive ideas and help others doing the same and rejuvenate together by bringing joy to the work culture. Join a place where creativity is respected, and challenges are embraced with passion and dedication. Become a part of our journey and we will together shape the future by immersing in the new technologies that will bring out the best in us and work we are committed to. 
           </p>
         </div>
         <div className="grid grid-cols-12  gap-4 mat-50">
           <div className="lg:col-span-4 md:col-span-6 sm:col-span-12">
             <div className="career-box">
               <img src={CareerIcons} alt="" />
-              <h5 className="heading-h5">Innovative Projects</h5>
+              <h5 className="heading-h5">Innovation at its Best</h5>
               <p className="para">
-                Immerse yourself in a world of innovation. Our projects span a
-                wide range of industries and technologies, providing you with
-                the opportunity to work on cutting-edge solutions that challenge
-                and inspire.
-              </p>
-            </div>
-          </div>
-          <div className="lg:col-span-4 md:col-span-6 sm:col-span-12">
-            <div className="career-box">
-              <img src={CareerIcons} alt="" />
-              <h5 className="heading-h5">Collaborative Culture</h5>
-              <p className="para">
-                We believe in the power of collaboration to drive success. As
-                part of our team, you'll work alongside passionate individuals
-                who value teamwork, communication, and mutual respect. Together,
-                we strive to create a supportive and inclusive environment where
-                every voice is heard, and every idea is valued.
+              We are committed to drive excellence, and we believe to be going along with time and new technologies that can cater to the project well and drive solutions to the problem.
               </p>
             </div>
           </div>
@@ -77,36 +53,25 @@ const Career = () => {
               <img src={CareerIcons} alt="" />
               <h5 className="heading-h5">Growth Opportunities</h5>
               <p className="para">
-                We're committed to helping our team members grow both personally
-                and professionally. Whether you're looking to deepen your
-                expertise in a specific area or take on new challenges, we offer
-                a variety of opportunities for learning, development, and
-                advancement.
+              Maxify team makes sure our team members grow exponentially from personal and professional manner. To deepen your knowledge in the subject matter, we strive to provide an area of learning where your grow and help others grow.
               </p>
             </div>
           </div>
           <div className="lg:col-span-4 md:col-span-6 sm:col-span-12">
             <div className="career-box">
               <img src={CareerIcons} alt="" />
-              <h5 className="heading-h5">Impactful Work</h5>
+              <h5 className="heading-h5">Real-Time Scenario</h5>
               <p className="para">
-                Joining our team means making a real difference. From helping
-                businesses streamline their operations to launching
-                game-changing products, your work at Maxify Web Solutions will
-                have a meaningful impact on the world around you.
+              The projects we work on are the ones that will add more value to your learning and career. It helps you brainstorm new ideas and explore new horizons while implementing solutions effectively.
               </p>
             </div>
           </div>
           <div className="lg:col-span-4 md:col-span-6 sm:col-span-12">
             <div className="career-box">
               <img src={CareerIcons} alt="" />
-              <h5 className="heading-h5">Diverse Perspectives</h5>
+              <h5 className="heading-h5">Diverse Perspective</h5>
               <p className="para">
-                We believe that diversity drives innovation. That's why we
-                embrace diversity and inclusion, welcoming individuals from all
-                backgrounds and experiences. By bringing together people with
-                diverse perspectives, we're able to tackle challenges from all
-                angles and drive innovation forward.
+              Coming from different backgrounds makes us different, what unites us together is the technology. Ideas are welcomed and every voice is heard to make our environment sustainable and bringing more innovation.
               </p>
             </div>
           </div>
@@ -115,11 +80,7 @@ const Career = () => {
               <img src={CareerIcons} alt="" />
               <h5 className="heading-h5">Work-Life Balance</h5>
               <p className="para">
-                We believe in supporting and maintaining a healthy work-life
-                balance. That's why we offer a supportive environment that
-                prioritizes well-being. Joining our team means enjoying the
-                freedom to live your best life, both inside and outside of the
-                office.
+              We believe in maintain a healthy and balanced lifestyle where you can grow professionally and personally. Where you can prioritize yourself and enjoy living being a part of Maxify team.
               </p>
             </div>
           </div>
@@ -144,11 +105,11 @@ const Career = () => {
                   <div className={selected === i ? "content show" : "content"}>
                     <ul>
                       <li>
-                        <b>Requi#525CEB Qualifications</b> :{" "}
+                        <b>Required Qualifications</b> :{" "}
                         <span>{item.qualification}</span>{" "}
                       </li>
                       <li>
-                        <b>Experience Requi#525CEB</b> :{" "}
+                        <b>Experience Required</b> :{" "}
                         <span>{item.experience}</span>{" "}
                       </li>
                       <li>

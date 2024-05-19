@@ -19,6 +19,8 @@ const SuccessDetails = ({ title,
     headingp3,
     img,
     img2,
+    banner2,
+    banner3,
     title2,
     title3,
     text,
@@ -81,10 +83,10 @@ const SuccessDetails = ({ title,
                         <div className="element-container ">
                             <div className="success-stories-middle-section">
                                 <div className="img-box-1">
-                                    <img src={img} alt="" />
+                                    <img src={banner2} alt="" />
                                 </div>
                                 <div className="img-box-2">
-                                    <img src={img2} alt="" />
+                                    <img src={banner3} alt="" />
                                 </div>
 
                             </div>
