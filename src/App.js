@@ -71,12 +71,11 @@ function App() {
             <Route path={item.url} element={<SuccessDetails
               img={item.img}
               img2={item.img2}
+              img3={item.img3}
               logo1={item.logo1}
               logo2={item.logo2}
               logo3={item.logo3}
               logo4={item.logo4}
-              banner2={item.banner2}
-              banner3={item.banner3}
               name={item.name}
               title={item.title}
               title2={item.title2}

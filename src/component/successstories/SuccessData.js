@@ -21,8 +21,8 @@ export const SuccessData = [
   {
     url: "/success-one",
     name: "Sharda University",
-    title2: "Result Driven App Development",
-    text: "Propel to new heights for App Development with Maxify Industries",
+    title2: "Uplifting The Digital Presence of Sharda University with Our Solutions",
+    text: "Maxify web solutions was given the opportunity to increase visibility of the Sharda University website.",
     img: uniImg,
     logo1: logo1,
     logo2: logo2,
@@ -34,7 +34,7 @@ export const SuccessData = [
     icons: <MdOutlineConstruction />,
     title: "Empowering Excellence with The Right App Development Company",
     title3:
-      "Rituals delivers consistent and superior shopping experiences to its customers in Malaysia, Singapore and Thailand with an intuitive eCommerce platform built on Salesforce Commerce Cloud by Ranosys",
+      "Sharda University is a one of the prestigious universities in India. The university has made a name for itself by providing education keeping focus on holistic learning and imbibing positive attitude in students. ",
     description:
       "Charles & Keith is a Singaporean fast-fashion retailer of high-quality, stylish footwear and accessories including bags, eyewear and costume jewellery cate#525CEB to modern women. It was founded back in 1996 by two brothers named Charles Wong and Keith Wong. Currently the brand has a global presence across Asia, the Middle East, Europe, Latin America and Africa with more than 600 physical stores. It also owns the brand Pedro which embodies modern luxury and style with a line of footwear and accessories for men and women.",
     description2:
